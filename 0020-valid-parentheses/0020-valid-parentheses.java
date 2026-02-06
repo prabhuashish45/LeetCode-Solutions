@@ -1,0 +1,25 @@
+class Solution {
+    
+    private boolean isMatched(char open, char close) {
+        if ((open == '('  && close == ')') ||
+           (open == '[' && close == ']') ||
+           (open == '{' && close == '}')) return true;
+
+        return false;
+    }
+
+    public boolean isValid(String s) {
+        Stack<Character> st = new Stack<>();
+        for(int i = 0; i < s.length(); i++) {
+            if(s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{') {
+                st.push(s.charAt(i));
+            } else {
+                if(st.isEmpty()) return false;
+
+                char open = st.pop();
+                if(!isMatched(open, s.charAt(i))) return false;
+            }           
+        }
+        return st.isEmpty();
+    }
+}
