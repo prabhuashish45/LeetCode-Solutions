@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 <!---LeetCode Topics End-->
