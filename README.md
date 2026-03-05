@@ -16,6 +16,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -29,4 +30,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
