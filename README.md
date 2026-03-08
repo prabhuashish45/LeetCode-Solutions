@@ -22,6 +22,7 @@
 | [0011-container-with-most-water](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
