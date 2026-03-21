@@ -48,10 +48,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
