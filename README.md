@@ -23,6 +23,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
+| [1929-concatenation-of-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
+| [1929-concatenation-of-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
