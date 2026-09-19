@@ -19,6 +19,7 @@
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
