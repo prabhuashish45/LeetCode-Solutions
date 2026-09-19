@@ -19,6 +19,7 @@
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [1470-shuffle-the-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
