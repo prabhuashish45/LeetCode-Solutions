@@ -18,6 +18,7 @@
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1470-shuffle-the-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
