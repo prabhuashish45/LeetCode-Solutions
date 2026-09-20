@@ -84,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 ## Recursion
