@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0509-fibonacci-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,10 +88,12 @@
 | [0007-reverse-integer](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0509-fibonacci-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
