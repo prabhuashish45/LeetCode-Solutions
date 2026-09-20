@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [1701-average-waiting-time](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
