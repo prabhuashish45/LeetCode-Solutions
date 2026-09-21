@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
@@ -35,6 +36,7 @@
 | [0016-3sum-closest](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0344-reverse-string](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
