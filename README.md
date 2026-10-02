@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0040-combination-sum-ii](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -44,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
