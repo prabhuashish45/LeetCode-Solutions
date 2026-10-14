@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -141,6 +142,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
