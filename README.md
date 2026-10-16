@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1470-shuffle-the-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -144,6 +145,7 @@
 | [0268-missing-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prabhuashish45/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
